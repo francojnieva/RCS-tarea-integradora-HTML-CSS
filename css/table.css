@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border: .1rem solid black;
+    text-align: center;
+}
+
+th, td {
+    padding: 2rem;
+    border: .1rem solid black;
+}
