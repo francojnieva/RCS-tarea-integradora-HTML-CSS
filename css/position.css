@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main figure {
+    width: 100%;
+    position: relative;
+}
+
+main figure img {
+    width: 100%;
+}
+
+h1 {
+    position: absolute;
+    top: 15rem;
+    left: 33rem;
+    font-style: oblique;
+}
