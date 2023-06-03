@@ -16,7 +16,7 @@ En esta página se implementaron tres cajas, algunas dispuestas en línea, otras
 - **Página de Position:**
 Se utilizó la propiedad CSS position para colocar una imagen con texto superpuesto. Se aplicaron estilos para lograr una presentación atractiva y legible.
 
-- **Página de Tabla: **
+- **Página de Tabla:**
 Se creó una tabla con contenido dentro de ella. Se aplicaron estilos CSS para mejorar la apariencia y legibilidad de la tabla.
 
 *Todas las páginas tienen un footer y una barra de navegación con 5 enlaces. Los enlaces están alineados en línea y tienen una posición fija (fixed). Al hacer clic en cada enlace, se redirecciona a la página correspondiente.*
